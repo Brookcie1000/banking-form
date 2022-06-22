@@ -56,7 +56,7 @@ export default function Onboarding() {
                 <LockOutlinedIcon />
             </Avatar>
             <Typography component="h1" variant="h5">
-                Welcome Aboard! We just need some more information from you before we finalise.
+                Welcome Aboard! We just need some more information from you before we finalise v2.
             </Typography>
             <Paper
             elevation={5}
